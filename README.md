@@ -8,7 +8,7 @@ Explore my projects to see how I use Python to analyze data, build predictive mo
 
 ⚡ You can also take a sneak peek at my [Tableau Dashboard](https://public.tableau.com/app/profile/amanda.osai) for my Data Visualizations. 
 
-📫 How to reach me: [LinkedIn](in/amanda-osaikhuwuomwan-915417194) & [Email](mailto:osaiamanda@gmail.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amandaosai) & [Email](mailto:osaiamanda@gmail.com)
 
 
 
