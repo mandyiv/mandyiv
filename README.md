@@ -4,7 +4,8 @@ Data Analyst | Data Scientist | Machine Learning Enthusiast |
 🔍 Welcome to my GitHub! 📊
 
 I'm a data analyst and scientist passionate about uncovering insights from complex datasets. 
-Explore my projects to see how I use Python to analyze data, build predictive models, and drive informed decisions. Let's connect and collaborate on transforming data into actionable intelligence!
+
+Explore my projects to see how I use Python to analyze data, build predictive models, and drive informed decisions. Let's connect and collaborate on transforming data into actionable insights!
 
 ⚡ You can also take a sneak peek at my [Tableau Dashboard](https://public.tableau.com/app/profile/amanda.osai) for my Data Visualizations. 
 
